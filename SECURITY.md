@@ -36,3 +36,14 @@ declined, etc.
 ## REVISION DE LA RAMA A EVALUAR.
 
 La revision puede dartar hasta 3 dias habiles en verificarse y obtener una respuesta, aparte de tener 4 dias mas para poder corregir los cambios o dicha rama sera desechada.
+
+# Notas Adicionales:
+Si tu Pull Request no es aprobado después de un tiempo razonable, puedes pedir retroalimentación a los revisores o a otros miembros del equipo.
+Evita realizar fusiones directas en la rama principal sin revisión.
+Este es solo un ejemplo básico y puedes adaptarlo según las necesidades específicas de tu equipo. Puedes considerar otras políticas de seguridad, como la configuración de flujos de trabajo (workflows) de GitHub Actions para análisis de seguridad y pruebas automáticas antes de permitir la fusión.
+
+
+
+
+
+
